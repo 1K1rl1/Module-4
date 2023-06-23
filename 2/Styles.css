@@ -1,0 +1,38 @@
+h1 {
+    background: rgb(152, 57, 57);
+}
+h2 {
+    background: rgb(158, 33, 158);
+}
+.paragraph-1 {
+    background: blueviolet;
+    font-size: 32pt;
+    color: white;
+}
+.paragraph-2 {
+    background: rgb(163, 59, 59);
+    font-size: 32pt;
+    color: rgb(108, 102, 102);
+    border: 10pt, solid, black;
+    border-radius: 10px;
+}
+.paragraph-3 {
+    background: rgb(59, 139, 163);
+    font-size: 32pt;
+    color: rgb(47, 16, 16);
+    border: 10pt, solid, rgb(146, 142, 142);
+    border-radius: 10px;
+    margin-top: 50px;
+    padding-left: 500px;
+}
+.paragraph-4 {
+    font-size: 24pt;
+    padding-left: 500px;
+    padding-right: 500px;
+    text-shadow: green 0 -2px;
+    font-style: oblique;
+}
+.div-1 {
+    font-size: 24pt;
+    font-weight: 700;
+}
